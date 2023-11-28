@@ -21,7 +21,7 @@ npx create-next-app . --typescript
 
 <br />
 
-##### [ next.js 프로젝트 기초 설정 ]
+##### [ next.js 기초 설정 ]
 
 npm install -D prettier eslint-plugin-prettier eslint-config-prettier  
 npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin  
