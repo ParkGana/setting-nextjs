@@ -18,3 +18,12 @@ npx create-next-app . --typescript
 \> Would you like to use `src/` directory with this project? ... No  
 \> Use App Router (recommended)? ... No  
 \> Would you like to customize the default import alias? ... No
+
+<br />
+
+##### [ next.js 프로젝트 기초 설정 ]
+
+npm install -D prettier eslint-plugin-prettier eslint-config-prettier  
+npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin  
+npm install -D styled-components@5.3.5 styled-reset  
+npm install -D @types/styled-components
